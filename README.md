@@ -1,4 +1,3 @@
-   #i#
 # Assembly Language Calculator (MIPS)
 This is a fully functional calculator written in MIPS assembly, completed for a class on **Computer Organization** class in college.
 
